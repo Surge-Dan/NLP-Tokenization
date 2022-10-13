@@ -1,4 +1,4 @@
-# 双向匹配中文分词NLP-Tokenization
+# 双向匹配中文分词（NLP-Tokenization）
 How to use Maximum Matching Algorithm for Bidirectional Chinese Word Segmentation.
 
 # 目的
